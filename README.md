@@ -4,12 +4,9 @@
 一个功能强大且使用简单的RecyclerView通用Adapter，https://github.com/CymChad/BaseRecyclerViewAdapterHelper  
 功能比SwipeRefreshLayout强大的下拉刷新库，https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh
 
-###带头部和尾部RecyclerView  
-![image](https://github.com/pengliangAndroid/RecyclerViewCommon/blob/master/demo0.gif)  
-
 ###带SwipeRefreshLayout的刷新和加载更多列表  
-![image](https://github.com/pengliangAndroid/RecyclerViewCommon/blob/master/demo1.gif)
+![image](https://github.com/pengliangAndroid/RecyclerViewCommon/blob/master/iamge/demo1.gif)
 
 ###PullToRefresh的刷新和加载更多列表  
-![image](https://github.com/pengliangAndroid/RecyclerViewCommon/blob/master/demo2.gif)
+![image](https://github.com/pengliangAndroid/RecyclerViewCommon/blob/master/image/demo2.gif)
 
